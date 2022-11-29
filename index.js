@@ -1,4 +1,8 @@
 #!/usr/bin/env node
+const clearConsole = require("clear-any-console");
+
+clearConsole();
+
 console.log(`
 
 N Chandan - Software Engineer
@@ -11,5 +15,6 @@ Certification
  -Microsoft Certified Professional
 
 Specialties: Azure design principles ,Front door service, ARM templates, MongoDB,.NetCore;.Net Framework,MVC,Entity Framework, REST Services,Angular,MS SQL Server ,Web Services/WCF ,Design Patterns
+
 
 `);
