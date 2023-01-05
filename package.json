@@ -1,10 +1,15 @@
 {
     "name": "nchandan",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "bin": {
         "nchandan": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
-    }
+        "cli-welcome": "^2.2.2"
+    },
+    "keywords": [
+        "nchandan", 
+        "chandan nagaraj", 
+        "chandan"
+    ]  
 }
