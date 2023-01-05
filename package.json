@@ -13,5 +13,8 @@
         "chandan"
     ],
     "license": "MIT",
-    "main": "index.js"
+    "main": "index.js",
+    "repository": {
+        
+    }
 }
