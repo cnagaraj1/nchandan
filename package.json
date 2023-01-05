@@ -1,6 +1,6 @@
 {
     "name": "nchandan",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "bin": {
         "nchandan": "index.js"
     },
@@ -8,8 +8,8 @@
         "cli-welcome": "^2.2.2"
     },
     "keywords": [
-        "nchandan", 
-        "chandan nagaraj", 
+        "nchandan",
+        "chandan nagaraj",
         "chandan"
-    ]  
+    ]
 }
