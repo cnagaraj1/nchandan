@@ -11,5 +11,8 @@
         "nchandan",
         "chandan nagaraj",
         "chandan"
-    ]
+    ],
+    "license": "MIT",
+    "main": "index.js"
+
 }

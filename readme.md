@@ -1,6 +1,6 @@
 `npx nchandan`
 
-getiing to know about n chandan 
+getting to know about n chandan 
 
 Usage
 To use the CLI run the following commands
