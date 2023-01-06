@@ -5,6 +5,7 @@
         "nchandan": "index.js"
     },
     "dependencies": {
+        "chalk": "^4.1.0",
         "cli-welcome": "^2.2.2"
     },
     "keywords": [

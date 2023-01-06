@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 const pkgJson = require("./package.json");
 const welcome = require("cli-welcome");
-
+const chalk = require('chalk');
+const log = console.log();
 
 welcome({
     title: `Get to know N Chandan`,
@@ -11,7 +12,7 @@ welcome({
 );
 console.log(`
 
-N Chandan - Software Engineer
+${chalk.blue('N Chandan - Software Engineer')}
 
 Enterprise Application design and Development on Microsoft Azure, Database Developer in a wide variety of business applications for large Enterprise customers . Particularly interested in cloud based designs and solutions.
 
